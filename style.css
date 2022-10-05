@@ -1,0 +1,47 @@
+body 
+{
+    background-image: url('f15.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    text-align: center;
+    font-family: 'Noto Sans Mono', monospace;
+}
+u
+{
+    font-size: 40px;
+}
+b
+{
+    color: white;
+    font-size: 22px;
+}
+#zero
+{
+    color: black;
+    font-size: 20px;
+}
+p
+{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+img
+{
+    height: 300px;
+    width: 400px;
+}
+a
+{
+    color: red;
+    font-size: 18px;
+}
+i
+{
+    font-size: 20px;
+}
+table
+{
+    color: black;
+    font-size:  17px;
+}
