@@ -2,7 +2,7 @@ body
 {
     background-image: url('f15.jpg');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center-bottom;
     background-size: cover;
     background-color: black;
     text-align: center;
