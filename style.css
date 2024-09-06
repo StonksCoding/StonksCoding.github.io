@@ -9,46 +9,46 @@ body
 }
 u
 {
-    font-size: 150px;
+    font-size: 200px;
 }
 b
 {
     color: white;
-    font-size: 75px;
+    font-size: 90px;
 }
 #zero
 {
     color: black;
-    font-size: 70px;
+    font-size: 85px;
 }
 #dupa
 {
     color: black;
-    font-size: 80px;
+    font-size: 95px;
 }
 p
 {
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 55px;
     margin: 400px;
 }
 
 img
 {
-    height: 300px;
-    width: 700px;
+    height: 600px;
+    width: 1400px;
 }
 a
 {
     color: blue;
-    font-size: 40px;
+    font-size: 55px;
 }
 i
 {
-    font-size: 40px;
+    font-size: 55px;
 }
 table
 {
     color: black;
-    font-size:  40px;
+    font-size:  55px;
 }
