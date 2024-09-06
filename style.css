@@ -3,7 +3,7 @@ body
     background-image: url('f15.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-color: black;
     text-align: center;
     font-family: 'Noto Sans Mono', monospace;
