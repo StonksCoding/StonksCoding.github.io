@@ -9,27 +9,27 @@ body
 }
 u
 {
-    font-size: 40px;
+    font-size: 150px;
 }
 b
 {
     color: white;
-    font-size: 22px;
+    font-size: 75px;
 }
 #zero
 {
     color: black;
-    font-size: 20px;
+    font-size: 70px;
 }
 #dupa
 {
     color: black;
-    font-size: 30px;
+    font-size: 80px;
 }
 p
 {
     color: rgb(255, 255, 255);
-    font-size: 17px;
+    font-size: 40px;
     margin: 400px;
 }
 
@@ -41,14 +41,14 @@ img
 a
 {
     color: blue;
-    font-size: 18px;
+    font-size: 40px;
 }
 i
 {
-    font-size: 20px;
+    font-size: 40px;
 }
 table
 {
     color: black;
-    font-size:  17px;
+    font-size:  40px;
 }
