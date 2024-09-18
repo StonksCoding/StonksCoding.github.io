@@ -10,8 +10,8 @@ body
 }
 div
 {
-    width: -40%;
-    position: right;
+    width: 100%;
+    position: sticky;
         
 }
 u
