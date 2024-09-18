@@ -11,7 +11,7 @@ body
 div
 {
     width: 40%;
-    position: sticky;
+    float:right;
         
 }
 u
