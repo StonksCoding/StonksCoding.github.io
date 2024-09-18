@@ -18,18 +18,19 @@ b
 }
 #zero
 {
-    color: black;
+    color: white;
     font-size: 85px;
 }
 #dupa
 {
-    color: black;
+    color: white;
     font-size: 95px;
 }
 p
 {
     color: rgb(255, 255, 255);
     font-size: 55px;
+    text-align: right;
     margin: 1500px;
 }
 
@@ -49,6 +50,6 @@ i
 }
 table
 {
-    color: black;
+    color: white;
     font-size:  55px;
 }
