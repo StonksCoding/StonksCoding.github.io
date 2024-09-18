@@ -5,6 +5,7 @@ body
     background-size: contain;
     background-color: black;
     text-align: right;
+    margin: 300px;
     font-family: 'Noto Sans Mono', monospace;
 }
 u
@@ -15,41 +16,48 @@ b
 {
     color: white;
     font-size: 90px;
+    text-align: right;
 }
 #zero
 {
     color: white;
     font-size: 85px;
+    text-align: right;
 }
 #dupa
 {
     color: white;
     font-size: 95px;
+    text-align: right;
 }
 p
 {
     color: rgb(255, 255, 255);
     font-size: 55px;
     text-align: right;
-    margin: 1500px;
+    margin: 300px;
 }
 
 img
 {
     height: 600px;
     width: 1400px;
+    image-align: right;
 }
 a
 {
     color: blue;
     font-size: 65px;
+    text-align: right;
 }
 i
 {
     font-size: 55px;
+    text-align: right;
 }
 table
 {
     color: white;
     font-size:  55px;
+    text-align: right;
 }
