@@ -4,14 +4,14 @@ body
     background-repeat: repeat;
     background-size: contain;
     background-color: black;
-    text-align: right;
+    text-align: left;
     margin: 300px;
     font-family: 'Noto Sans Mono', monospace;
 }
 div
 {
     width: 50%;    
-    align: right;
+
 }
 u
 {
@@ -21,26 +21,26 @@ b
 {
     color: white;
     font-size: 90px;
-    text-align: right;
+    text-align: left;
     margin: 500px;
 }
 #zero
 {
     color: white;
     font-size: 85px;
-    text-align: right;
+    text-align: left;
 }
 #dupa
 {
     color: white;
     font-size: 95px;
-    text-align: right;
+    text-align: left;
 }
 p
 {
     color: rgb(255, 255, 255);
     font-size: 55px;
-    text-align: right;
+    text-align: left;
     margin: 300px;
 }
 
@@ -48,22 +48,22 @@ img
 {
     height: 600px;
     width: 1400px;
-    image-align: right;
+    image-align: left;
 }
 a
 {
     color: red;
     font-size: 65px;
-    text-align: right;
+    text-align: left;
 }
 i
 {
     font-size: 55px;
-    text-align: right;
+    text-align: left;
 }
 table
 {
     color: white;
     font-size:  55px;
-    position: right;
+    position: left;
 }
