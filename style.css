@@ -8,6 +8,12 @@ body
     margin: 300px;
     font-family: 'Noto Sans Mono', monospace;
 }
+div
+{
+    width: 40%;
+    position: right;
+        
+}
 u
 {
     font-size: 200px;
