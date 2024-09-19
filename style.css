@@ -19,13 +19,14 @@ u
 }
 #beka
 {
-    text-align: left;
+    text-align: right;
 }
 #memy
 {
     height: 900px;
     width: 2100px;
     image-align: right;
+    float: right;
 }
 b
 {
