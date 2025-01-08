@@ -14,12 +14,7 @@ div
     width: 50%;    
 
 }
-.box div
-{
-    display: flex;
-    justify-content: right;
-}
-  
+
 u
 {
     font-size: 200px;
@@ -28,7 +23,7 @@ u
 #memy
 {
     height: auto;
-
+    align-items: right;
     width: 2vw;
     margin: 5px;
 
@@ -38,7 +33,7 @@ b
     color: white;
     font-size: 90px;
     text-align: left;
-    margin: 500px;
+    margin: 300px;
 }
 #zero
 {
@@ -81,6 +76,6 @@ table
 {
     color: white;
     font-size:  55px;
-    margin: 200px;
+    margin: 300px;
     align: left;
 }
